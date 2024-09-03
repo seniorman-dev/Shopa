@@ -8,7 +8,7 @@ It encompasses a search filtering functionality whereby the user can filter thro
 //Setting up 'Shopa' locally on your machine
 *First things first, make sure you have 'Git' downloaded and successfully installed in your system (e.g Windows, MacOS, Linux).
 
-*Next, cd into any directory of your choice and run the command "git clone https://github.com/seniorman-dev/shopa.git" to clone/download the file from my github repository.
+*Next, cd into any directory of your choice and run the command "git clone https://github.com/seniorman-dev/Shopa.git" to clone/download the file from my github repository.
 
 *Once cloning is successful, launch the flutter project in VS-CODE or Android Studio and run the command "flutter pub get" in your terminal to fetch and install Flutter's Dependencies.
 
