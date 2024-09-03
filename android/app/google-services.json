@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "607740044972",
+    "project_id": "shopa-f257f",
+    "storage_bucket": "shopa-f257f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:607740044972:android:3ff816005efacfbe2ca109",
+        "android_client_info": {
+          "package_name": "com.shopa"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDDhEzeV5EDiHSlDRLzNGLuCDDBe45T0Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
